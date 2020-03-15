@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cayohgaug.cdr.nz/sitemap.xml
